@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AWS cloud project with ML <br>👯 I’m looking to collaborate on Web applications<br>🤝 I’m looking for help with cloud computing, devops<br>🌱 I’m currently learning cloud computing with docker<br>
+🔭 I’m currently working on Solace PubSUb+ <br>👯 I’m looking to collaborate on Web applications<br>🤝 I’m looking for help with cloud computing, devops<br>🌱 I’m currently learning cloud computing with docker<br>
 
 
 ## 🌐 Socials:
