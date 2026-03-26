@@ -133,8 +133,8 @@ I build **event-driven infrastructure tooling** on Solace PubSub+ and wrap it in
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="45" height="45"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Solace%20PubSub+-00C895?style=for-the-badge&logo=Solace&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=for-the-badge&logo=Apache-Kafka&logoColor=white"/>
+  <img src="https://solace.com/wp-content/uploads/2025/07/solace-logo.svg" alt="solace" width="120" height="120"/>
+  <img src="https://www.svgrepo.com/show/305719/apachekafka.svg" alt="apachekafka" width="45" height="45"/>
 </p>
 
 <h4>Cloud, DevOps & Tools</h4>
@@ -166,8 +166,8 @@ I build **event-driven infrastructure tooling** on Solace PubSub+ and wrap it in
 ```
 [▓▓▓▓▓▓▓▓░░]  Solace Agent Mesh (SAM) — Multi-agent AI on EDA
 [▓▓▓▓▓▓▓░░░]  MCP Ecosystem — Building open-source MCP servers
-[▓▓▓▓▓░░░░░]  DR Replication — Async Solace broker replication on GCP
-[▓▓▓▓░░░░░░]  Real-time AI — Event-driven AI application patterns
+[▓▓▓▓▓░░░░░]  Google Cloud — Setting up cloud infrastructure 
+[▓▓▓▓░░░░░░]  Desktop Application — development using electron-JS
 ```
 
 ---
