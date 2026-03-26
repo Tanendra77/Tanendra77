@@ -21,7 +21,7 @@
 ![Solace](https://img.shields.io/badge/-Solace-00C895?style=for-the-badge&logo=Solace&logoColor=white) ![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=for-the-badge&logo=Apache-Kafka&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tanendra77&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Tanendra77&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tanendra77&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanendra77&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
