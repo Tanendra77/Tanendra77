@@ -15,7 +15,7 @@
   <a href="https://medium.com/@siddheshpaithankar299">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="https://hub.docker.com/r/YOUR_DOCKERHUB_USERNAME">
+  <a href="https://hub.docker.com/r/tanendra">
     <img src="https://img.shields.io/badge/Docker%20Hub-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Tanendra77&style=for-the-badge&color=00C895&label=PROFILE+VIEWS" />
@@ -96,28 +96,6 @@ I build **event-driven infrastructure tooling** on Solace PubSub+ and wrap it in
     </tr>
   </tbody>
 </table>
-
----
-
-## 🐳 Docker Hub — Solace Broker
-
-> Pre-configured Solace PubSub+ Standard broker image, ready to deploy
-
-<p>
-  <a href="https://hub.docker.com/r/YOUR_DOCKERHUB_USERNAME/YOUR_IMAGE_NAME">
-    <img src="https://img.shields.io/badge/Docker%20Hub-Pull%20Image-%232496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  </a>
-</p>
-
-```bash
-# Pull and run the broker
-docker pull YOUR_DOCKERHUB_USERNAME/YOUR_IMAGE_NAME
-docker run -d --name solace \
-  -p 8080:8080 -p 55555:55555 -p 8008:8008 \
-  YOUR_DOCKERHUB_USERNAME/YOUR_IMAGE_NAME
-```
-
-> Access the management UI at `http://localhost:8080` — default credentials: `admin / admin`
 
 ---
 
