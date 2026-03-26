@@ -25,7 +25,12 @@
 
 ## ⚡ About Me
 
-I build **event-driven infrastructure tooling** on Solace PubSub+ and wrap it in full-stack dashboards, CLIs, and open-source utilities. I work with large-scale trading systems and real-time messaging pipelines, and I'm actively exploring the **MCP (Model Context Protocol)** ecosystem for AI-powered infrastructure tooling.
+Most of my work lives underneath the surface — the messaging layer, the broker 
+config, the pipeline nobody sees until it breaks. I build that layer, and then 
+I build the tools to operate it. I care about systems that handle real data in 
+real time, and about shipping things that other developers find genuinely useful. 
+Currently exploring AI on event-driven infrastructure — because the most 
+interesting AI problems aren't batch jobs, they're streams.
 
 - 🔭 &nbsp; Currently building open-source Solace tooling and exploring **Solace Agent Mesh**
 - 🛠️ &nbsp; Specializing in **EDA**, broker operations, SEMP v2 scripting, and DR replication
@@ -55,7 +60,7 @@ I build **event-driven infrastructure tooling** on Solace PubSub+ and wrap it in
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/MCP-00C895?style=flat-square"/>
       </td>
-      <td><a href="https://github.com/Tanendra77/solace-semp-mcp">Repo</a> · <a href="https://npmjs.com/package/solace-semp-mcp">npm</a></td>
+      <td><a href="https://github.com/Tanendra77/solace-semp-mcp">Repo</a> · <a href="https://npmjs.com/package/solace-semp-mcp">npm</a> · <a href="https://hub.docker.com/r/tanendra/solace-semp-mcp">docker</a></td>
     </tr>
     <tr>
       <td><b>📡 QueueProbe</b></td>
@@ -67,13 +72,13 @@ I build **event-driven infrastructure tooling** on Solace PubSub+ and wrap it in
       <td><a href="https://github.com/Tanendra77/QueueProbe">Repo</a></td>
     </tr>
     <tr>
-      <td><b>🖥️ Solace Ops Console</b></td>
-      <td>Full-featured Next.js operations dashboard for Solace broker management with SEMP v2 integration</td>
+      <td><b>🎨 AI Canvas</b></td>
+      <td>Interactive AI-powered drawing canvas built using OpenCV and Python for real-time gesture-based sketching</td>
       <td>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       </td>
-      <td><a href="https://github.com/Tanendra77">Repo</a></td>
+      <td><a href="https://github.com/Tanendra77/AIR_Canvas">Repo</a></td>
     </tr>
     <tr>
       <td><b>🎬 CineGraph</b></td>
@@ -83,16 +88,47 @@ I build **event-driven infrastructure tooling** on Solace PubSub+ and wrap it in
         <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       </td>
-      <td><a href="https://github.com/Tanendra77">Repo</a></td>
+      <td><a href="https://github.com/Tanendra77/Cinegraph">Repo</a></td>
+    </tr>
+    <td><b>🧠 NLP Doctor History Autocomplete</b></td>
+      <td>NLP-based system that predicts and autocompletes patient medical history using Python and natural language processing techniques</td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square"/>
+      </td>
+      <td><a href="https://github.com/Tanendra77/NLP_Doctor-History-Autocomplete">Repo</a></td>
+    </tr>
+  <tr>
+  <td><b>🌐 Proxy Gate</b></td>
+      <td>Universal API proxy built with Next.js that enables access to region-restricted APIs by routing requests through a server. Supports services like TMDb, Supabase, and more.</td>
+      <td>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/API%20Proxy-4CAF50?style=flat-square"/>
+      </td>
+      <td>
+        <a href="https://github.com/Tanendra77/proxy-gate">Repo</a> |
+        <a href="https://proxy-gate-tanendra77.vercel.app/">Live</a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>📓 Notebook</b></td>
+      <td>Full-stack note-taking application built using the MERN stack (MongoDB, Express, React, Node.js) with secure user authentication and complete CRUD functionality for managing notes.</td>
+      <td>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+      </td>
+      <td><a href="https://github.com/Tanendra77/notebook">Repo</a></td>
     </tr>
     <tr>
       <td><b>🖱️ Solace Desktop Client</b></td>
-      <td>Electron.js desktop app for Solace with producer/consumer/browser modes and AES-256 profile encryption</td>
+      <td>Electron.js desktop app for Solace with producer/consumer/browser modes </td>
       <td>
         <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
       </td>
-      <td><a href="https://github.com/Tanendra77">Repo</a></td>
+      <td><a href="https://github.com/Tanendra77"></a>planing</td>
     </tr>
   </tbody>
 </table>
