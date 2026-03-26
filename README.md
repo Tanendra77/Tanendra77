@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Event Driven Architecture Solace <br>👯 I’m looking to collaborate on Web applications<br>🤝 Excited to create something great together!<br>🌱 Hungry to learn. Ready to build<br>
+🔭 Event Driven Architecture Solace <br>👯 I’m looking to collaborate on realtime AI applications<br>🤝 Excited to create something great together!<br>🌱 Hungry to learn. Ready to build<br>
 
 
 ## 🌐 Socials:
