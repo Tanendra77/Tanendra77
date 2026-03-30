@@ -15,10 +15,24 @@
   <a href="https://medium.com/@siddheshpaithankar299">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
+  <a href="https://dev.to/tanendra77">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
   <a href="https://hub.docker.com/r/tanendra">
     <img src="https://img.shields.io/badge/Docker%20Hub-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
   </a>
+  <a href="YOUR_NPM_LINK">
+    <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=Tanendra77&style=for-the-badge&color=00C895&label=PROFILE+VIEWS" />
+</p>
+
+<h3 align="center">📬 Newsletter</h3>
+
+<p align="center">
+  <a href="https://hexag0n.substack.com/">
+    <img src="https://img.shields.io/badge/Subscribe%20on%20Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -33,7 +47,7 @@ Currently exploring AI on event-driven infrastructure — because the most
 interesting AI problems aren't batch jobs, they're streams.
 
 - 🔭 &nbsp; Currently building open-source Solace tooling and exploring **Solace Agent Mesh**
-- 🛠️ &nbsp; Specializing in **EDA**, broker operations, SEMP v2 scripting, and DR replication
+- 🛠️ &nbsp; Specializing in **EDA**, broker operations, microservices, and infrastructure
 - 🤝 &nbsp; Open to collaborating on **real-time AI applications** and event-driven systems
 - 📍 &nbsp; Based in **Mumbai, India**
 
