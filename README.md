@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00C895&center=true&vCenter=true&width=700&lines=Building+EDA+infrastructure+on+Solace+PubSub%2B;Open-source+tooling+for+messaging+systems;Full-stack+developer+%7C+Systems+programmer;MCP+%7C+Solace+Agent+Mesh+%7C+Real-time+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00C895&center=true&vCenter=true&width=700&lines=Building+EDA+infrastructure+on+Solace+PubSub%2B;Open-source+tooling+for+messaging+systems;Backend+developer+%7C+Systems+programmer;MCP+%7C+Solace+Agent+Mesh+%7C+Real-time+AI" alt="Typing SVG" />
   </a>
 </p>
 
@@ -135,7 +135,7 @@ interesting AI problems aren't batch jobs, they're streams.
       </td>
       <td><a href="https://github.com/Tanendra77/notebook">Repo</a></td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td><b>🖱️ Solace Desktop Client</b></td>
       <td>Electron.js desktop app for Solace with producer/consumer/browser modes </td>
       <td>
@@ -143,7 +143,7 @@ interesting AI problems aren't batch jobs, they're streams.
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
       </td>
       <td><a href="https://github.com/Tanendra77"></a>planing</td>
-    </tr>
+    </tr> -->
   </tbody>
 </table>
 
