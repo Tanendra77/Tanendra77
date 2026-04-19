@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C895&height=200&section=header&text=Siddhesh%20Paithankar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Event%20Driven%20Architecture%20%7C%20Solace%20%7C%20Full%20Stack&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C895&height=200&section=header&text=Siddhesh%20Paithankar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Event%20Driven%20Architecture%20%7C%20Solace%20%7C%20Backend%20%7C%20DevOps%20%&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
